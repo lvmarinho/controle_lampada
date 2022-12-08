@@ -1,1 +1,1 @@
-leolvm.github.io./controle_lampada
+http://leolvm.github.io./controle de lampada
